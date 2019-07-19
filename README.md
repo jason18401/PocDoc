@@ -16,5 +16,4 @@ Application analyzes images through machine learning and categorizes the percent
   -melanocytic nevi (nv)
   -vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc).
   
-*[Disclaimer: please bear in mind that this application reflection on educational/technical exploration 
-  and the results obtained are not medical. Do not reply on this application for medical detection]*
+*[Disclaimer: please bear in mind that this application reflection on educational/technical exploration]*
